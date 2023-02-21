@@ -1,3 +1,4 @@
+/* Global styling*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,6 +17,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Header and Nav*/
 
 header {
     padding: 20px;
@@ -56,6 +59,7 @@ nav ul li {
     margin-bottom: 25px;
 }
 
+/* Column 1 styling */
 main {
     width: 75%;
     display: inline-block;
@@ -90,6 +94,8 @@ main {
     max-height: 200px;
 }
 
+/* Column 2 styling */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +122,8 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer styling */
 
 footer {
     padding: 30px;
